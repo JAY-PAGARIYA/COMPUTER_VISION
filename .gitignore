@@ -1,0 +1,6 @@
+__pycache__/
+*.pt
+data/*.mp4
+data/*.mov
+outputs/task4/*.mp4
+venv/

@@ -1,0 +1,9 @@
+Image,Haar faces,Haar ms,YOLO objects,YOLO persons,YOLO classes,YOLO ms
+photo1,0,180.9,2,1,"backpack, person",1624.4
+photo2,0,46.8,1,0,backpack,32.1
+frame_13,1,40.1,2,0,"backpack, dining table",59.2
+frame_35,2,39.7,3,0,"backpack, bed, dining table",45.2
+frame_57,0,38.2,2,0,"bed, dining table",45.9
+frame_80,1,39.4,3,0,"bed, dining table",35.8
+frame_102,0,46.4,3,0,"bed, chair, dining table",37.3
+frame_125,1,45.0,4,0,"bed, chair, dining table",32.2

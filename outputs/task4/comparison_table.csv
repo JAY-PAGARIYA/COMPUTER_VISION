@@ -1,0 +1,4 @@
+Method,Avg result per frame,Avg time (ms/frame),Output type,Strength,Weakness
+Frame differencing,11.61% of pixels flagged,0.42,Binary mask,"Very fast, simple, no training",Only edges of moving object; noise/camera shake gives false motion; slow objects missed
+GMM / MOG2 background subtraction,10.25% of pixels flagged,19.08,Binary mask (full object),"Learns background, fills whole object, handles lighting change slowly",Needs static camera + warm-up; stopped objects fade into background; shadows/noise
+Lucas-Kanade optical flow,180.1 moving points/frame,17.98,Motion vectors (direction + speed),Gives direction and speed of motion,Sparse only; fails on textureless areas / fast motion; camera motion moves all vectors

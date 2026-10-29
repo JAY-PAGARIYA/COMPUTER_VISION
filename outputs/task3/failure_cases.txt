@@ -1,0 +1,5 @@
+photo1: YOLO found 1 person(s) but Haar found NO face -> Haar MISS (look at compare_photo1.png)
+frame_13: Haar found 1 face(s) but YOLO only 0 person(s) -> possible Haar FALSE POSITIVE
+frame_35: Haar found 2 face(s) but YOLO only 0 person(s) -> possible Haar FALSE POSITIVE
+frame_80: Haar found 1 face(s) but YOLO only 0 person(s) -> possible Haar FALSE POSITIVE
+frame_125: Haar found 1 face(s) but YOLO only 0 person(s) -> possible Haar FALSE POSITIVE

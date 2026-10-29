@@ -1,0 +1,5 @@
+Experiment,KP img1,KP img2,Good matches (ratio 0.75),RANSAC inliers,Inlier ratio
+Original pair,443,860,41,18,43.9%
+Photo 2 rotated 45 deg,443,916,40,18,45.0%
+Photo 2 rotated 90 deg,443,853,43,19,44.2%
+Photo 2 resized to 50%,443,344,26,18,69.2%
